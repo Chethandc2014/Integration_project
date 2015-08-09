@@ -1,0 +1,11 @@
+package com.cluster.dao;
+
+/**
+ * @author Chethan D C
+ *
+ */
+public class AddressDAO {
+	
+	
+
+}
